@@ -9,7 +9,7 @@ The primary objective of this analysis is to evaluate the sales performance of t
 # TOOLS USED
 Microsoft Excel - data cleaning, pivotcharts, dashboard creation using icons and slicers
 # DATA
-Customer Name, Salesperson, Address, City, State, Country, Region, Shipper Name, Ship Name, Category, Product Name, Payment Type, Revenue, Shipping Fee, Unit Price (pricing strategy), Quantity (sales volume), and ZIP Code 
+Customer Name,Salesperson, Address, City, State, Country, Region, Shipper Name, Ship Name, Category, Product Name, Payment Type, Revenue, Shipping Fee, Unit Price (pricing strategy), Quantity (sales volume), and ZIP Code 
 
 The dataset is relevant to the grocery retail industry, where revenue generation is a critical factor for business sustainability. Understanding sales trends, customer preferences, and regional performance enables grocery stores to optimize product offerings and maximize profitability.
 
