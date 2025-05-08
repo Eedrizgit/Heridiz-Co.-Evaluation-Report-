@@ -1,13 +1,17 @@
 # Heridiz-Co. Evaluation-Report
-! {Dashboard Preview}()
+![Dashboard Preview](https://github.com/Eedrizgit/Heridiz-Co.-Evaluation-Report-/blob/main/task%201%20corrected%20dashboard.png)
 
-**Heridiz & Co. Evaluation Report for the Year 2019**
-
-The primary objective of this analysis is to evaluate the sales performance of top-performing sales representatives, best-selling products, and key customers across different regions. By identifying trends and patterns, this study aims to generate actionable insights that will enhance pricing strategies, optimize product offerings, and improve customer engagement, ultimately driving revenue growth of Heridiz.
-
+# **Heridiz & Co. Evaluation Report for the Year 2019**
+# OVERVIEW
 To maximize revenue and enhance overall business performance, Heridiz & Co. requires a data-driven approach to identify key growth opportunities. This analysis focuses on determining the highest revenue-generating region, identifying top-performing sales representatives, and analyzing best-selling product categories that drive profitability. Additionally, evaluates individual customer contributions to total revenue.
+# OBJECTIVES
+The primary objective of this analysis is to evaluate the sales performance of top-performing sales representatives, best-selling products, and key customers across different regions. By identifying trends and patterns, this study aims to generate actionable insights that will enhance pricing strategies, optimize product offerings, and improve customer engagement, ultimately driving revenue growth of Heridiz.
+# DATA
+Customer Name, Salesperson, Address, City, State, Country, Region, Shipper Name, Ship Name, Category, Product Name, Payment Type, Revenue, Shipping Fee, Unit Price (pricing strategy), Quantity (sales volume), and ZIP Code 
 
-IN-ANALYSIS OBSERVATIONS
+The dataset is relevant to the grocery retail industry, where revenue generation is a critical factor for business sustainability. Understanding sales trends, customer preferences, and regional performance enables grocery stores to optimize product offerings and maximize profitability.
+
+# IN-ANALYSIS OBSERVATIONS
 
 1. Nancy performed best for the year with the grossing revenue of $104,242.34
 
@@ -25,7 +29,7 @@ IN-ANALYSIS OBSERVATIONS
 
 8. New York tops the chart on revenue generated based on Ship city.
 
-IN-ANALYSIS RECOMMENDATIONS
+# IN-ANALYSIS RECOMMENDATIONS
 
 1. Jan performed least for the year, and I do recommend to the Stakeholders that he should be retrenched or sent over for some training on sales and customer retention.
 
@@ -41,5 +45,6 @@ IN-ANALYSIS RECOMMENDATIONS
 
 7. We can set up a Sub headquarters in New York to ensure more customers get interested in lower shipping fees, encouraging more prior unacquired customers.
 
-[**Complete technical report on this Dataset**](https://medium.com/@akinteyeidris/heridiz-co-evaluation-report-for-the-year-2019-9b0aff685f0f)  
+# TECHNICAL REPORT
+[**Click for the full report**](https://medium.com/@akinteyeidris/heridiz-co-evaluation-report-for-the-year-2019-9b0aff685f0f)  
 #####
