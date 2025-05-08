@@ -6,6 +6,8 @@
 To maximize revenue and enhance overall business performance, Heridiz & Co. requires a data-driven approach to identify key growth opportunities. This analysis focuses on determining the highest revenue-generating region, identifying top-performing sales representatives, and analyzing best-selling product categories that drive profitability. Additionally, evaluates individual customer contributions to total revenue.
 # OBJECTIVES
 The primary objective of this analysis is to evaluate the sales performance of top-performing sales representatives, best-selling products, and key customers across different regions. By identifying trends and patterns, this study aims to generate actionable insights that will enhance pricing strategies, optimize product offerings, and improve customer engagement, ultimately driving revenue growth of Heridiz.
+# TOOLS USED
+Microsoft Excel - data cleaning, pivotcharts, dashboard creation using icons and slicers
 # DATA
 Customer Name, Salesperson, Address, City, State, Country, Region, Shipper Name, Ship Name, Category, Product Name, Payment Type, Revenue, Shipping Fee, Unit Price (pricing strategy), Quantity (sales volume), and ZIP Code 
 
